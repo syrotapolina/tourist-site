@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header p{
+    border-top: 5px solid lightblue;
+    border-bottom: 5px solid lightblue;
+    margin: 10px;
+    padding: 5px;
+}
+.colorblue{
+    height: 20px;
+    width: 720px;
+}
+main img{
+    height: 80px;
+    width: 85px;
+    border-radius: 150px;
+}
+main{
+    border: 3px solid lightblue;
+    border-radius: 20px;
+}
+footer{
+    background-color: lightblue;
+    padding: 3px;
+}
+footer p{
+    background-color: white;
+    padding: 3px;
+}
